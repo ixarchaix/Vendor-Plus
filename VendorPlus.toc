@@ -1,0 +1,9 @@
+## Interface: 120000, 120001, 120105
+## Title: VendorPlus
+## Notes: Overhauled vendor window with TSM region sale average, sale rate and sold-per-day next to every item.
+## Author: You
+## Version: 1.0.1
+## SavedVariables: VendorPlusDB
+## OptionalDeps: TradeSkillMaster
+
+VendorPlus.lua
