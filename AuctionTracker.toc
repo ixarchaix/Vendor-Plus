@@ -1,0 +1,9 @@
+## Interface: 120105
+## Title: Auction Tracker
+## Notes: Tracks your active auctions across all characters, shows a popup when the Auction House opens, tracks per-realm mailbox income, and has a minimap button. Type /at to open.
+## Author: ix_archaix
+## Version: 5.0.3
+## SavedVariables: AuctionTrackerDB
+## IconTexture: Interface\AddOns\AuctionTracker\icon
+
+AuctionTracker.lua
